@@ -2,7 +2,8 @@
 
 [![update-data](https://github.com/dul30984-cpu/hs300-vs-2ndbond/actions/workflows/update.yml/badge.svg)](https://github.com/dul30984-cpu/hs300-vs-2ndbond/actions/workflows/update.yml)
 
-**在线看板：https://dul30984-cpu.github.io/hs300-vs-2ndbond/**
+**在线看板：https://yjzll.github.io/hs300-vs-2ndbond/
+           https://dul30984-cpu.github.io/hs300-vs-2ndbond/**
 
 - 两条指数叠加：沪深300全收益（H00300）与二级债基指数，2004-12-31 = 1000。
 - 滚轮缩放、拖动平移、悬停十字光标读数；红圈标出“300 全收益跌破二级债基”的时点。
