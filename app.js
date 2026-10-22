@@ -209,7 +209,7 @@
     $("mRatio").textContent = fmt2(b / h);
     var days = (new Date(d.dates[n]) - new Date(d.dates[0])) / 86400000;
     var cagrH = Math.pow(h / 1000, 365.25 / days) - 1;
-    var cagrB = Math.pow(b / 500, 365.25 / days) - 1;
+    var cagrB = Math.pow(b / 1000, 365.25 / days) - 1;
     $("mCagr").textContent = fmtPct(cagrH * 100, false) + " / " + fmtPct(cagrB * 100, false);
   }
 
